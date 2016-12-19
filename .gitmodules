@@ -1,0 +1,30 @@
+[submodule "zd-wp-autolink"]
+	path = zd-wp-autolink
+	url = https://github.com/zirkeldesign/zd-wp-autolink
+[submodule "wp-rocket"]
+	path = wp-rocket
+	url = https://github.com/zirkeldesign/zd-wp-plugins-wp-rocket
+[submodule "wpseo"]
+	path = wpseo
+	url = https://github.com/zirkeldesign/zd-wp-plugins-wpseo
+[submodule "wp-migrate-db-pro"]
+	path = wp-migrate-db-pro
+	url = https://github.com/zirkeldesign/zd-wp-plugins-wp-migrate-db-pro
+[submodule "enable-media-replace"]
+	path = enable-media-replace
+	url = https://github.com/mansj/enable-media-replace
+[submodule "disable-comments"]
+	path = disable-comments
+	url = https://github.com/solarissmoke/disable-comments
+[submodule "bwp-google-xml-sitemaps"]
+	path = bwp-google-xml-sitemaps
+	url = https://github.com/zirkeldesign/zd-wp-plugins-bwp-google-xml-sitemaps
+[submodule "zd-wp-plugins-theia-smart-thumbnails"]
+	path = zd-wp-plugins-theia-smart-thumbnails
+	url = https://github.com/zirkeldesign/zd-wp-plugins-theia-smart-thumbnails
+[submodule "theia-smart-thumbnails"]
+	path = theia-smart-thumbnails
+	url = https://github.com/zirkeldesign/zd-wp-plugins-theia-smart-thumbnails
+[submodule "file-gallery"]
+	path = file-gallery
+	url = https://github.com/zirkeldesign/zd-wp-plugins-file-gallery
